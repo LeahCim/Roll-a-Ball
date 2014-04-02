@@ -1,6 +1,10 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
+# Apply Unix-style LF line-endings
+*.meta text eol=lf
+*.unity text eol=lf
+
 # Custom for Visual Studio
 *.cs     diff=csharp
 *.sln    merge=union
