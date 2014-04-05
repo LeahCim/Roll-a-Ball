@@ -3,3 +3,10 @@
 # =============== #
 Temp/
 Library/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+*.userprefs
+*.csproj
+*.sln
